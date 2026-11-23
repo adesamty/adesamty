@@ -2,7 +2,7 @@
 - 👀 I’m interested in product design and frontend development
 - 🌱 I’m currently learning frontend development 
 - 💞️ I’m looking to collaborate on projects which are helpful to honing my skills as a software engineer
-- 📫 You can reach me on 08113770204 or adelekesam001@gmail.com or samty-imaginations.vercel.app
+- 📫 You can reach me on 08113770204 or adelekesam001@gmail.com or [samty-imaginations.vercel.app](https://samty-imaginations.vercel.app/)
 - 
 
 <!---
